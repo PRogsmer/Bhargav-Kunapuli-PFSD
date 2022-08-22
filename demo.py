@@ -22,6 +22,6 @@ for i in range(len(arr_1)):
     #print from last
     print(arr_2[-1:-5])
 
-    print(arr_2[-4:])
+    print(arr_2[-4:]) 
 
     print(arr_2[:7])
